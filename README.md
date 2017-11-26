@@ -8,6 +8,10 @@ Based on the OpenCV library and implemented in C++, the Virtual Spectator detect
 
 Once that person is known to the system, the Virtual Spectator will automatically recognize it every time it appears on the scene. As time goes by, the Virtual Spectator creates a growing database of known people, just like we humans do.
 
-## Demo
+### Presentation:
 
 https://www.youtube.com/watch?v=WKm6KKrXB48&t=
+
+### Demo:
+
+https://youtu.be/WKm6KKrXB48?t=71
